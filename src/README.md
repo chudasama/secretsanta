@@ -1,5 +1,3 @@
-##NOTE : Test are UNIT test are pending 
-
 The proposed solution will handle following scenarios 
 
 1) No restriction .. Santa will be selected based on random shuffle 
